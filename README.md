@@ -7,16 +7,6 @@
   <img src="https://user-images.githubusercontent.com/59691442/163533178-17e9e8bf-d844-41d5-a1f2-4ca06316793e.svg" alt="pythonanywhereLogo" style="width:200px;"/>  
 </p>  
 
-
-<!-- ![python logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-![selenium logo](https://clipground.com/images/selenium-logo-7.png)
-
-![PA-logo](https://user-images.githubusercontent.com/59691442/163533178-17e9e8bf-d844-41d5-a1f2-4ca06316793e.svg)   
-
-![logo-plotly](https://user-images.githubusercontent.com/59691442/163533189-eca49767-276c-45d7-910b-e955b7e2856e.svg)   -->
-
-
 ## Description
 
 Scraping project made in python using selenium.  
@@ -113,5 +103,5 @@ Dash :
 <https://plotly.com/dash/>
 
 <center>
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </center>
