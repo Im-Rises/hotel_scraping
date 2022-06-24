@@ -10,8 +10,10 @@
 ## Description
 
 Scraping project made in python using selenium.  
-Project main goal is to scrap datas from different website for study.
-The python scripts create bots that navigates through the different hotels website (hotels.com, booking, trivago and kayak). It will use the research system and it will scrap all hotels' data on every available pages (the data gathered are stored into differente csv files, one csv file for each website).  
+Project main goal is to scrap data from different website for study.
+The python scripts create bots that navigate through the different hotels' website (hotels.com, booking, trivago and
+kayak). It will use the research system, and it will scrap all hotels' data on every available pages (the data gathered
+are stored into different csv files, one csv file for each website).  
 Those data can be used by the GUI app website to search for the hotel that best suit you or for analysis.
 There is specific section on the gui app that allow you to study the price of the hotel and locate them on a map.
 
@@ -34,31 +36,34 @@ There is specific section on the gui app that allow you to study the price of th
 
 ## GUI application
 
-We implemented a GUI application made in dash and hosted on pythonanywhere : http://maaelle.pythonanywhere.com/ 
+We implemented a GUI application made in dash and hosted on pythonanywhere : http://maaelle.pythonanywhere.com/
 
 The website is in French. No english translation has been made.
 
 ### GUI source code
 
-The code of the GUI available in this repository at https://github.com/clementreiffers/HotelScraping/tree/main/HotelScraping/website isn't our final GUI, it was only a test before coding it using Dash Python. 
+The code of the GUI available in this repository
+at https://github.com/clementreiffers/HotelScraping/tree/main/HotelScraping/website isn't our final GUI, it was only a
+test before coding it using Dash Python.
 
-So if you want to check the code of the GUI, you need to go there : 
+So if you want to check the code of the GUI, you need to go there :
 
 https://github.com/maaelle/InterfaceHotel
 
 ### GUI description
 
-On the website you can search an hotel by differents caracteristics. You can also summarize check the mean and variance price per month of all the hotels.  
+On the website you can search an hotel by differents caracteristics. You can also summarize check the mean and variance
+price per month of all the hotels.  
 Giving you informations about the most expensive month for sleeping at the hotels.
 
 ### GUI Images
 
-| Main page | Research page |
-| --- | --- |
+| Main page                          | Research page                      |
+|------------------------------------|------------------------------------|
 | ![Image1](Readme_files/image1.png) | ![Image2](Readme_files/image2.png) |
 
-| Statistics page | Map page |
-| --- | --- |
+| Statistics page                    | Map page                           |
+|------------------------------------|------------------------------------|
 | ![Image3](Readme_files/image3.png) | ![Image4](Readme_files/image4.png) |
 
 ## Other sources
@@ -68,28 +73,6 @@ The source code of the website can be found here :
 
 Flutter GUI prototype projetc :  
 <https://github.com/clementreiffers/hotel-scraper-interface>
-
-## Contributors
-
-Maëlle Marcelin :  
-
-- @maaelle
-- <https://github.com/maaelle>
-
-Clément Reiffers :
-
-- @clementreiffers
-- <https://github.com/clementreiffers>
-
-Quentin Morel :
-
-- @Im-Rises
-- <https://github.com/Im-Rises>
-
-Adrien Tirlemont :
-
-- @Meatisdelicious
-- <https://github.com/Meatisdelicious>
 
 ## APIs
 
@@ -105,3 +88,27 @@ Dash :
 <center>
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </center>
+
+## Contributors
+
+Quentin Morel :
+
+- @Im-Rises
+- <https://github.com/Im-Rises>
+
+Clément Reiffers :
+
+- @clementreiffers
+- <https://github.com/clementreiffers>
+
+Maëlle Marcelin :
+
+- @maaelle
+- <https://github.com/maaelle>
+
+Adrien Tirlemont :
+
+- @Meatisdelicious
+- <https://github.com/Meatisdelicious>
+
+[![GitHub contributors](https://contrib.rocks/image?repo=Im-Rises/hotel_scraping)](https://github.com/Im-Rises/hotel_scraping/graphs/contributors)
